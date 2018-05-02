@@ -1,5 +1,5 @@
 {
-    "name": "sergiodlopes/omnipay-eupago",
+    "name": "eupago/omnipay-eupago",
     "type": "library",
     "description": "euPago integration in omnipay",
     "keywords": [
@@ -14,7 +14,7 @@
         "pagaqui",
         "payshop"
     ],
-    "homepage": "https://github.com/sergiodlopes/omnipay-eupago",
+    "homepage": "https://github.com/eupago/omnipay-eupago",
     "license": "MIT",
     "authors": [
         {
